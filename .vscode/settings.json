@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "autopep8",
+    "python.pythonPath": "/home/sheggam/.local/share/virtualenvs/sql_base_for_fastapi-t7AX_S1d/bin/python"
+}
